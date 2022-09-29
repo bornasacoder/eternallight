@@ -2,10 +2,6 @@
   "name": "eternallight",
   "version": "1.0.0",
   "description": "",
-  "engines": {
-    "node": "14.17.0",
-    "npm": "6.14.13"
-},
   "main": "yes",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
